@@ -1,4 +1,4 @@
-package ru.levelup.bank.analytics.dto.client;
+package ru.levelup.bank.analytics.external.api.dto.client;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 import lombok.Data;
